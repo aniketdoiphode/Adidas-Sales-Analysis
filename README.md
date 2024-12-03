@@ -7,7 +7,7 @@
 
 ### ✤ Tool Used:
 
-- MySQL
+- Power BI
 
 
 1. Enhanced understanding of sales dynamics and performance drivers.
